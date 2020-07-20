@@ -1,0 +1,35 @@
+{
+  "name": "rxjs-loading-operator",
+  "version": "1.0.0",
+  "description": "rxjs loading operator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asv2001/rxjs-loading-operator.git"
+  },
+  "keywords": [
+    "rxjs",
+    "loading"
+  ],
+  "author": "Anton Sinelnyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asv2001/rxjs-loading-operator/issues"
+  },
+  "homepage": "https://github.com/asv2001/rxjs-loading-operator#readme",
+  "peerDependencies": {
+    "rxjs": "^6.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/jest": "^26.0.5",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0",
+    "typescript": "^3.9.7"
+  }
+}
