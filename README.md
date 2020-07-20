@@ -1,4 +1,4 @@
-The `rxjs-loading-operator` enables setting of the loading state. You can use it like follows:
+The `rxjs-loading-operator` enables setting the loading state. You can use it like follows:
 
 ```typescript
 import { of } from "rxjs";
